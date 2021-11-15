@@ -5,8 +5,8 @@ Create React apps with Vite.js.
 - [Creating an App](#creating-an-app) – How to create a new app.
 
 In this configuration has `styled-components`, `prettier`, `eslint`, `commitlint` and `husky`.<br>
-If something doesn’t work, please [file an issue](https://github.com/lenivene/vitejs-boilerplate/issues/new).<br>
-If you have questions or need help, please ask in [GitHub Discussions](https://github.com/lenivene/vitejs-boilerplate/discussions).
+If something doesn’t work, please [file an issue](https://github.com/lenivene/vitejs-boilerplate-typescript/issues/new).<br>
+If you have questions or need help, please ask in [GitHub Discussions](https://github.com/lenivene/vitejs-boilerplate-typescript/discussions).
 
 ## Creating an App
 
